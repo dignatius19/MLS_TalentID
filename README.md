@@ -1,4 +1,4 @@
-# MLS Talent ID
+# MLS_TalentID
 - Use machine learning to identify undervalued players in the MLS
 
 # MLS Base Salary Prediction Model
